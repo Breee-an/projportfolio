@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">PF.Made</string>
+    <string name="NEW">NEW</string>
+    <string name="saved_projects">saved projects</string>
+</resources>
